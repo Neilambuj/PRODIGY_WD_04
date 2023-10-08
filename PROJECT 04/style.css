@@ -1,0 +1,57 @@
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.hero h1 {
+    font-size: 36px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.hero img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+
+.skills, .about {
+    background-color: #fff;
+    padding: 40px;
+    margin: 20px 0;
+}
+
+.skills h2, .about h2 {
+    font-size: 24px;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
